@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Course">
+  <Resource auth="Container" driverClassName="oracle.jdbc.driver.OracleDriver" maxActive="50" maxIdle="30" maxWait="10000" name="jdbc/CourseWebServices" password="12345" type="javax.sql.DataSource" url="jdbc:oracle:thin:@127.0.0.1:1521:XE" username="DBLESSON1"/>
+</Context>
